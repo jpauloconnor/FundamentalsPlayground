@@ -23,6 +23,16 @@ body{
     text-decoration: none;
 }
 
+.nav li a:hover{
+	background-color: #111;
+}
+
+.project{
+	height: 300px;
+	width: 300px;
+}
+
+
 
 
 
